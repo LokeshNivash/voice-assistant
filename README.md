@@ -26,3 +26,7 @@ In case any error pops up install this - pip3 install portAudio
 
 Issues
 If you encounter any problems feel free to open a new issue. Before that check other closed issues and check if your issue matches with any older issues.
+
+
+# If you have any doubts or queries, feel free to contact me 
+https://lokeshnivash.super.site/
