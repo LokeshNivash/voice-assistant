@@ -3,6 +3,7 @@ Build an Artificial Assistant
 # VOICE ASSISTANT
 
 This is a model of a voice assistant with minimal features.
+This Python-based voice assistant is designed to provide users with a convenient, hands-free way to interact with their devices. Using advanced speech recognition technology, it can understand and respond to a wide range of commands, from setting reminders and playing music to searching the web and controlling smart home devices. With its user-friendly interface and customizable features, this voice assistant offers a seamless and intuitive experience for users looking to streamline their daily tasks.
 
 # INSTALLATION :
 
